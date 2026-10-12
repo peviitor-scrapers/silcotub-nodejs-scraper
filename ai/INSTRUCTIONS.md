@@ -155,8 +155,8 @@ generateJobsMarkdown() → docs/jobs.md
 - **CUIScan**: `https://cuiscan.ro/api.php?action=company&cui=CIF` - Company details fallback
 - **CUIFirma Search**: `https://cuifirma.ro/api/search?q=BRAND` - Search fallback
 - **Peviitor API**: `https://api.peviitor.ro/v1/` — all job and company operations go through this API
-- **Tenaris Silcotub — listing**: `https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0` — pagina publică de posturi deschise (HTML server-rendered)
-- **Tenaris Silcotub — sitemap**: `` — permalink-uri canonice `/joburi/<slug>/`
+- **Silcotub — listing**: `https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0` — pagina publică de posturi deschise (HTML server-rendered)
+- **Silcotub — sitemap**: `` — permalink-uri canonice `/joburi/<slug>/`
 - **ANOFM**: `POST https://mediere.anofm.ro/api/entity/vw_public_job_posting` — filter by `employer_tax_code` (CIF)
 
 ## Rate Limiting & Politeness

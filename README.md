@@ -30,7 +30,7 @@ npm run scrape           # runs the full pipeline (no-op until configured)
 | Placeholder | Fill with |
 |---|---|
 | `SILCOTUB SA` | legal name, uppercase (e.g. `EXAMPLE COMPANY SRL`) |
-| `Tenaris Silcotub` | commercial brand |
+| `Silcotub` | commercial brand |
 | `15117182` | fiscal code (CUI), no `RO` prefix |
 | `https://www.tenaris.com` | `https://www.example.com` |
 | `https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0` | the open-positions listing page |

@@ -2,7 +2,7 @@
   "_comment": "Example shape of the tmp/company.json cache written by scraper/company.js. Not loaded by any test — kept as a reference.",
   "validatedAt": "2026-01-01T10:00:00.000Z",
   "source": "CUIScan",
-  "brand": "Tenaris Silcotub",
+  "brand": "Silcotub",
   "anaf": {
     "cui": 12345678,
     "name": "SILCOTUB SA",
@@ -17,7 +17,7 @@
   "peviitor": {
     "id": "12345678",
     "company": "SILCOTUB SA",
-    "brand": "Tenaris Silcotub",
+    "brand": "Silcotub",
     "status": "activ",
     "website": ["https://www.tenaris.com"],
     "career": ["https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0"],

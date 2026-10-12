@@ -5,7 +5,7 @@
 | Field | Value |
 |-------|-------|
 | CIF | 15117182 |
-| Brand | Tenaris Silcotub |
+| Brand | Silcotub |
 | Status | activ |
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
