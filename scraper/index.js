@@ -339,7 +339,8 @@ async function scrapeCareers() {
         title: item.title,
         location: locationFromTitle(item.title),
         workmode: scraperConfig.defaultWorkmode,
-        expirationdate: item.expirationdate,
+        // SuccessFactors listing shows the POSTING date, not a deadline.
+        expirationdate: undefined,
         source: CAREERS_SOURCE
       });
     });
