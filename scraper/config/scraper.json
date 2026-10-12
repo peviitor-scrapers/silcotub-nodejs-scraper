@@ -1,0 +1,20 @@
+{
+  "userAgent": "job_seeker_ro_spider",
+  "requestTimeoutMs": 10000,
+  "pageDelayMs": 1000,
+  "staleJobDeletion": false,
+  "manageCompany": true,
+  "defaultLocation": ["Zalau"],
+  "defaultWorkmode": "on-site",
+  "ownJobUrlPrefix": "https://recruitment.tenaris.com/job/",
+  "sources": {
+    "sitemap": "",
+    "listing": "https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0",
+    "jobArchive": "https://recruitment.tenaris.com/job/"
+  },
+  "selectors": {
+    "jobArticle": ["tr.data-row", "[class*='job']", ".vacancy, .position, .listing-item"],
+    "jobTitle": ["a.jobTitle-link", "h1, h2, h3, h4", "[itemprop='title'], [aria-label]", "a"],
+    "jobMeta": [".jobDate", "p, .meta, [class*='deadline']"]
+  }
+}

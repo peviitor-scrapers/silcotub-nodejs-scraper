@@ -1,0 +1,10 @@
+{
+  "id": "15117182",
+  "company": "SILCOTUB SA",
+  "brand": "Tenaris Silcotub",
+  "status": "activ",
+  "location": ["Zalau"],
+  "website": ["https://www.tenaris.com"],
+  "career": ["https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0"],
+  "scraperFile": "https://github.com/peviitor-scrapers/silcotub-nodejs-scraper/actions/workflows/scrape.yml"
+}
