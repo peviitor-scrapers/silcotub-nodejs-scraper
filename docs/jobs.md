@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-10-12 |
+| Last Scraped | 2026-10-13 |
 
-## Current Job Listings (7)
+## Current Job Listings (10)
 
-_Generated: 2026-10-12T19:44:02.389Z_
+_Generated: 2026-10-13T13:25:06.571Z_
 
 ### Business Coord. Senior Analyst-Dips 1
 
@@ -26,6 +26,27 @@ _Generated: 2026-10-12T19:44:02.389Z_
 ### Junior Logistics Analyst
 
 - **URL:** [https://recruitment.tenaris.com/job/Zalau-Junior-Logistics-Analyst-Sala/1431379000/](https://recruitment.tenaris.com/job/Zalau-Junior-Logistics-Analyst-Sala/1431379000/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
+
+### IT SAP Applications Support Analyst
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/](https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
+
+### Junior Engineer - Global Trainee Program
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-Junior-Engineer-Global-Trainee-Program-Sala/1439432200/](https://recruitment.tenaris.com/job/Zalau-Junior-Engineer-Global-Trainee-Program-Sala/1439432200/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
+
+### Economical and Financial Planning Sr. Analyst
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/](https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/)
 - **Work Mode:** on-site
 - **Location:** Zalau
 - **Status:** scraped
