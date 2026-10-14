@@ -10,15 +10,22 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-10-13 |
+| Last Scraped | 2026-10-14 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-10-13T13:25:06.571Z_
+_Generated: 2026-10-14T11:03:42.119Z_
 
 ### Business Coord. Senior Analyst-Dips 1
 
 - **URL:** [https://recruitment.tenaris.com/job/Zalau-Business-Coord_-Senior-Analyst-Dips-1-Sala/1428911200/](https://recruitment.tenaris.com/job/Zalau-Business-Coord_-Senior-Analyst-Dips-1-Sala/1428911200/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
+
+### Global Trainee: programul care te pregătește să fii lider
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/](https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/)
 - **Work Mode:** on-site
 - **Location:** Zalau
 - **Status:** scraped
@@ -47,13 +54,6 @@ _Generated: 2026-10-13T13:25:06.571Z_
 ### Economical and Financial Planning Sr. Analyst
 
 - **URL:** [https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/](https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/)
-- **Work Mode:** on-site
-- **Location:** Zalau
-- **Status:** scraped
-
-### Global Trainee: programul care te pregătește să fii lider
-
-- **URL:** [https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/](https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/)
 - **Work Mode:** on-site
 - **Location:** Zalau
 - **Status:** scraped
