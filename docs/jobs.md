@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-10-16 |
+| Last Scraped | 2026-10-17 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-10-16T10:34:10.985Z_
+_Generated: 2026-10-17T10:03:33.421Z_
 
 ### Global Trainee: programul care te pregătește să fii lider
 
@@ -23,16 +23,16 @@ _Generated: 2026-10-16T10:34:10.985Z_
 - **Location:** Zalau
 - **Status:** scraped
 
-### IT SAP Applications Support Analyst
+### Junior Logistics Analyst
 
-- **URL:** [https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/](https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/)
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-Junior-Logistics-Analyst-Sala/1431379000/](https://recruitment.tenaris.com/job/Zalau-Junior-Logistics-Analyst-Sala/1431379000/)
 - **Work Mode:** on-site
 - **Location:** Zalau
 - **Status:** scraped
 
-### Junior Logistics Analyst
+### IT SAP Applications Support Analyst
 
-- **URL:** [https://recruitment.tenaris.com/job/Zalau-Junior-Logistics-Analyst-Sala/1431379000/](https://recruitment.tenaris.com/job/Zalau-Junior-Logistics-Analyst-Sala/1431379000/)
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/](https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/)
 - **Work Mode:** on-site
 - **Location:** Zalau
 - **Status:** scraped
