@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-10-20 |
+| Last Scraped | 2026-10-21 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-10-20T10:51:21.811Z_
+_Generated: 2026-10-21T11:03:32.902Z_
 
 ### Global Trainee: programul care te pregătește să fii lider
 
@@ -30,13 +30,6 @@ _Generated: 2026-10-20T10:51:21.811Z_
 - **Location:** Zalau
 - **Status:** scraped
 
-### IT SAP Applications Support Analyst
-
-- **URL:** [https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/](https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/)
-- **Work Mode:** on-site
-- **Location:** Zalau
-- **Status:** scraped
-
 ### Business Coord. Senior Analyst-Dips 1
 
 - **URL:** [https://recruitment.tenaris.com/job/Zalau-Business-Coord_-Senior-Analyst-Dips-1-Sala/1428911200/](https://recruitment.tenaris.com/job/Zalau-Business-Coord_-Senior-Analyst-Dips-1-Sala/1428911200/)
@@ -47,6 +40,13 @@ _Generated: 2026-10-20T10:51:21.811Z_
 ### Economical and Financial Planning Sr. Analyst
 
 - **URL:** [https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/](https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
+
+### IT SAP Applications Support Analyst
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/](https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/)
 - **Work Mode:** on-site
 - **Location:** Zalau
 - **Status:** scraped
