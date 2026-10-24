@@ -10,22 +10,15 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-10-23 |
+| Last Scraped | 2026-10-24 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-10-23T10:55:37.000Z_
+_Generated: 2026-10-24T10:10:36.135Z_
 
 ### Global Trainee: programul care te pregătește să fii lider
 
 - **URL:** [https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/](https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/)
-- **Work Mode:** on-site
-- **Location:** Zalau
-- **Status:** scraped
-
-### Junior Logistics Analyst
-
-- **URL:** [https://recruitment.tenaris.com/job/Zalau-Junior-Logistics-Analyst-Sala/1431379000/](https://recruitment.tenaris.com/job/Zalau-Junior-Logistics-Analyst-Sala/1431379000/)
 - **Work Mode:** on-site
 - **Location:** Zalau
 - **Status:** scraped
@@ -37,9 +30,9 @@ _Generated: 2026-10-23T10:55:37.000Z_
 - **Location:** Zalau
 - **Status:** scraped
 
-### Economical and Financial Planning Sr. Analyst
+### Junior Logistics Analyst
 
-- **URL:** [https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/](https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/)
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-Junior-Logistics-Analyst-Sala/1431379000/](https://recruitment.tenaris.com/job/Zalau-Junior-Logistics-Analyst-Sala/1431379000/)
 - **Work Mode:** on-site
 - **Location:** Zalau
 - **Status:** scraped
@@ -47,6 +40,13 @@ _Generated: 2026-10-23T10:55:37.000Z_
 ### IT SAP Applications Support Analyst
 
 - **URL:** [https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/](https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
+
+### Economical and Financial Planning Sr. Analyst
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/](https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/)
 - **Work Mode:** on-site
 - **Location:** Zalau
 - **Status:** scraped
