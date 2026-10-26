@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-10-25 |
+| Last Scraped | 2026-10-26 |
 
-## Current Job Listings (9)
+## Current Job Listings (10)
 
-_Generated: 2026-10-25T10:35:53.859Z_
+_Generated: 2026-10-26T12:08:49.919Z_
 
 ### IT SAP Applications Support Analyst
 
@@ -56,6 +56,12 @@ _Generated: 2026-10-25T10:35:53.859Z_
 - **URL:** [https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/](https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/)
 - **Work Mode:** on-site
 - **Location:** Zalau
+- **Status:** scraped
+
+### SPECIALIST MENTENANTA MECANICA ECHIPAMENTE INDUSTRIALE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3393517](https://mediere.anofm.ro/app/module/mediere/job/3393517)
+- **Location:** ZALAU
 - **Status:** scraped
 
 ### INGINER MENTENANTA SI REPARATII
