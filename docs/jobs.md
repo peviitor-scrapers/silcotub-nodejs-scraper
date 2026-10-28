@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
 ## Current Job Listings (11)
 
-_Generated: 2026-10-27T11:30:31.683Z_
+_Generated: 2026-10-28T12:00:13.320Z_
 
 ### IT SAP Applications Support Analyst
 
