@@ -7,14 +7,14 @@
 | CIF | 15117182 |
 | Brand | Silcotub |
 | Status | activ |
-| Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
+| Location | Zalau |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-10-31 |
+| Last Scraped | 2026-11-01 |
 
 ## Current Job Listings (9)
 
-_Generated: 2026-10-31T11:36:54.197Z_
+_Generated: 2026-11-01T12:34:40.161Z_
 
 ### IT SAP Applications Support Analyst
 
