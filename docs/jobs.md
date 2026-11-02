@@ -7,28 +7,14 @@
 | CIF | 15117182 |
 | Brand | Silcotub |
 | Status | activ |
-| Location | Zalau |
+| Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
 ## Current Job Listings (9)
 
-_Generated: 2026-11-01T12:34:40.161Z_
-
-### IT SAP Applications Support Analyst
-
-- **URL:** [https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/](https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/)
-- **Work Mode:** on-site
-- **Location:** Zalau
-- **Status:** scraped
-
-### Global Trainee: programul care te pregătește să fii lider
-
-- **URL:** [https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/](https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/)
-- **Work Mode:** on-site
-- **Location:** Zalau
-- **Status:** scraped
+_Generated: 2026-11-02T14:37:06.958Z_
 
 ### Economical and Financial Planning Sr. Analyst
 
@@ -40,6 +26,20 @@ _Generated: 2026-11-01T12:34:40.161Z_
 ### Junior Engineer - Global Trainee Program
 
 - **URL:** [https://recruitment.tenaris.com/job/Zalau-Junior-Engineer-Global-Trainee-Program-Sala/1439432200/](https://recruitment.tenaris.com/job/Zalau-Junior-Engineer-Global-Trainee-Program-Sala/1439432200/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
+
+### IT SAP Applications Support Analyst
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/](https://recruitment.tenaris.com/job/Zalau-IT-SAP-Applications-Support-Analyst-Sala/1439438800/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
+
+### Global Trainee: programul care te pregătește să fii lider
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/](https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/)
 - **Work Mode:** on-site
 - **Location:** Zalau
 - **Status:** scraped
