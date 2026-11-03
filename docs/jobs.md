@@ -10,11 +10,18 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
-## Current Job Listings (9)
+## Current Job Listings (10)
 
-_Generated: 2026-11-02T14:37:06.958Z_
+_Generated: 2026-11-03T13:30:29.481Z_
+
+### Engineering Specialist
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-Engineering-Specialist-Sala/1446767000/](https://recruitment.tenaris.com/job/Zalau-Engineering-Specialist-Sala/1446767000/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
 
 ### Economical and Financial Planning Sr. Analyst
 
