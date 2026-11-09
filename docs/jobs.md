@@ -10,11 +10,18 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-11-08 |
+| Last Scraped | 2026-11-09 |
 
-## Current Job Listings (9)
+## Current Job Listings (10)
 
-_Generated: 2026-11-08T12:39:50.588Z_
+_Generated: 2026-11-09T14:58:55.901Z_
+
+### Junior Production Planning Analyst
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-Junior-Production-Planning-Analyst-Sala/1397513400/](https://recruitment.tenaris.com/job/Zalau-Junior-Production-Planning-Analyst-Sala/1397513400/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
 
 ### Junior Engineer - Global Trainee Program
 
