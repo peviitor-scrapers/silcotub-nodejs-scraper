@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-11-11 |
+| Last Scraped | 2026-11-12 |
 
-## Current Job Listings (10)
+## Current Job Listings (9)
 
-_Generated: 2026-11-11T13:27:33.240Z_
+_Generated: 2026-11-12T14:32:03.411Z_
 
 ### Junior Production Planning Analyst
 
@@ -60,12 +60,6 @@ _Generated: 2026-11-11T13:27:33.240Z_
 ### SPECIALIST MENTENANTA MECANICA ECHIPAMENTE INDUSTRIALE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3393517](https://mediere.anofm.ro/app/module/mediere/job/3393517)
-- **Location:** ZALAU
-- **Status:** scraped
-
-### INGINER MENTENANTA SI REPARATII
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3393512](https://mediere.anofm.ro/app/module/mediere/job/3393512)
 - **Location:** ZALAU
 - **Status:** scraped
 
