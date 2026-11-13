@@ -10,25 +10,11 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-11-12 |
+| Last Scraped | 2026-11-13 |
 
 ## Current Job Listings (9)
 
-_Generated: 2026-11-12T14:32:03.411Z_
-
-### Junior Production Planning Analyst
-
-- **URL:** [https://recruitment.tenaris.com/job/Zalau-Junior-Production-Planning-Analyst-Sala/1397513400/](https://recruitment.tenaris.com/job/Zalau-Junior-Production-Planning-Analyst-Sala/1397513400/)
-- **Work Mode:** on-site
-- **Location:** Zalau
-- **Status:** scraped
-
-### Economical and Financial Planning Sr. Analyst
-
-- **URL:** [https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/](https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/)
-- **Work Mode:** on-site
-- **Location:** Zalau
-- **Status:** scraped
+_Generated: 2026-11-13T13:50:29.261Z_
 
 ### Junior Engineer - Global Trainee Program
 
@@ -51,6 +37,13 @@ _Generated: 2026-11-12T14:32:03.411Z_
 - **Location:** Zalau
 - **Status:** scraped
 
+### Economical and Financial Planning Sr. Analyst
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/](https://recruitment.tenaris.com/job/Zalau-Economical-and-Financial-Planning-Sr_-Analyst-Sala/1439435800/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
+
 ### MANAGER
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3428898](https://mediere.anofm.ro/app/module/mediere/job/3428898)
@@ -60,6 +53,12 @@ _Generated: 2026-11-12T14:32:03.411Z_
 ### SPECIALIST MENTENANTA MECANICA ECHIPAMENTE INDUSTRIALE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3393517](https://mediere.anofm.ro/app/module/mediere/job/3393517)
+- **Location:** ZALAU
+- **Status:** scraped
+
+### INGINER MENTENANTA SI REPARATII
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3393512](https://mediere.anofm.ro/app/module/mediere/job/3393512)
 - **Location:** ZALAU
 - **Status:** scraped
 
