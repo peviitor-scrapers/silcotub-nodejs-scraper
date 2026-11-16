@@ -10,11 +10,18 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-11-15 |
+| Last Scraped | 2026-11-16 |
 
-## Current Job Listings (9)
+## Current Job Listings (10)
 
-_Generated: 2026-11-15T13:21:17.742Z_
+_Generated: 2026-11-16T14:36:30.506Z_
+
+### Business Coord. Senior Analyst-Dips 1
+
+- **URL:** [https://recruitment.tenaris.com/job/Zalau-Business-Coord_-Senior-Analyst-Dips-1-Sala/1428911200/](https://recruitment.tenaris.com/job/Zalau-Business-Coord_-Senior-Analyst-Dips-1-Sala/1428911200/)
+- **Work Mode:** on-site
+- **Location:** Zalau
+- **Status:** scraped
 
 ### IT SAP Applications Support Analyst
 
