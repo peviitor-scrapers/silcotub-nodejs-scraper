@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, MUN. ZALĂU, BLD. MIHAI VITEAZUL, NR.93 |
 | Website | [https://www.tenaris.com](https://www.tenaris.com) |
 | Careers | [https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0](https://recruitment.tenaris.com/search/?q=&locationsearch=Romania&startrow=0) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
-## Current Job Listings (11)
+## Current Job Listings (9)
 
-_Generated: 2026-11-22T13:57:19.505Z_
+_Generated: 2026-11-23T17:12:29.375Z_
 
 ### Junior Engineer - Global Trainee Program
 
@@ -44,24 +44,11 @@ _Generated: 2026-11-22T13:57:19.505Z_
 - **Location:** Zalau
 - **Status:** scraped
 
-### Engineering Sr. Analyst
-
-- **URL:** [https://recruitment.tenaris.com/job/Zalau-Engineering-Sr_-Analyst-Sala/1397515400/](https://recruitment.tenaris.com/job/Zalau-Engineering-Sr_-Analyst-Sala/1397515400/)
-- **Work Mode:** on-site
-- **Location:** Zalau
-- **Status:** scraped
-
 ### Global Trainee: programul care te pregătește să fii lider
 
 - **URL:** [https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/](https://recruitment.tenaris.com/job/Zalau-Global-Trainee-programul-care-te-preg%C4%83te%C8%99te-s%C4%83-fii-lider-Sala/1024383700/)
 - **Work Mode:** on-site
 - **Location:** Zalau
-- **Status:** scraped
-
-### MANAGER
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3428898](https://mediere.anofm.ro/app/module/mediere/job/3428898)
-- **Location:** ZALAU
 - **Status:** scraped
 
 ### SPECIALIST MENTENANTA MECANICA ECHIPAMENTE INDUSTRIALE
